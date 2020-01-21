@@ -1,5 +1,4 @@
 url: https://franciscotavares.github.io
-baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Awesome Title
@@ -62,3 +61,4 @@ address:
 
 # Build settings
 markdown: kramdown
+permalink: pretty
