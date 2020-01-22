@@ -1,63 +1,50 @@
-url: https://franciscotavares.github.io
-
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: Dowsnux
+email: fco.anjos@gmail.com
+description: "A Dowsnux é uma jovem empresa de desenvolvimento e manutenção de sistemas corporativos e aplicativos móveis. Oferecemos serviços personalizados em desenvolvimento de aplicativos móveis, de sites e consultoria para sistemas corporativos. Acreditamos na prestação dos serviços sem comprometer o tempo e a qualidade, e em consequência, proporcionam crescimento ao seu negócio."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Francisco Tavares
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
   position: Lead Developer
   social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/fcoanjos/
+    - title: github
+      url: https://github.com/FranciscoTavares
     - title: twitter
-      url: #
+      url: https://twitter.com/fcoanjos
+
+- name: Gerviz Holanda
+  pic: 2
+  position: Systems Analyst
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/gerviz-holanda-de-azevedo-junior-856649b0/
+
+- name: Jonathas Batista
+  pic: 3
+  position: Lead Designer
+  social:
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/jonathas.batista.7
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/fcoanjos
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/Hyperlinkinfosystem
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/FranciscoTavares
+  - title: instagram
+    url: https://www.instagram.com/ftavares512/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Alameda Dr. Carlos de Carvalho, 771
+  - line: Bigorrilho, Curitiba
 
 # Build settings
 markdown: kramdown
