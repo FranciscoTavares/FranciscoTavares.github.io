@@ -1,0 +1,15 @@
+---
+title: Jewelry Money
+subtitle: Mobile App
+layout: default
+modal-id: 1
+date: 2020-01-10
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: Jan 2020
+client: Jewelry Money
+category: Mobile App
+description: Aplicativo para vendedores de semi-jóias gereciar produtos, clientes e vendas.
+
+---
